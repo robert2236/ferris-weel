@@ -4,7 +4,7 @@ Este proyecto fue creado para demostrar una animación utilizando HTML y CSS. La
 
 ## Captura de Pantalla
 
-![Captura de Pantalla](cap![Screenshot_2](https://github.com/robert2236/ferris-weel/assets/91293983/84506a24-8a15-41ea-b33f-f637439a1d34)
+(https://github.com/robert2236/ferris-weel/assets/91293983/84506a24-8a15-41ea-b33f-f637439a1d34)
 tura.png)
 
 ## Demo en Vivo
