@@ -8,6 +8,6 @@ Este proyecto fue creado para demostrar una animación utilizando HTML y CSS. La
 
 ## Demo en Vivo
 
-Puedes ver una demostración en vivo del proyecto [aquí](https://app.netlify.com/sites/ferrisweel/overview).
+Puedes ver una demostración en vivo del proyecto [aquí](https://ferrisweel.netlify.app).
 
 ¡Espero que disfrutes explorando esta animación! 😊
